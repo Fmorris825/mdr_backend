@@ -1,0 +1,3 @@
+FROM python:alpine3.17
+
+WORKDIR /user/src/app
